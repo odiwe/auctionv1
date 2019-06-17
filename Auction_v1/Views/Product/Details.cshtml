@@ -1,0 +1,41 @@
+﻿@model Auction_v1.Models.tblProduct
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>@Model.ProductName</h2> 
+<hr/>
+<div class="container">
+<div class="row">
+    <div class="col-md-6" style="margin-bottom: 20px">
+        <div>
+            <img class="img-responsive" src="~/Uploads/Products/@Model.PicUrl"/>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <h4><strong>@Model.ProductName</strong></h4><br/>
+        <h5>&#8358;@Model.ProductPrice</h5><br/>
+        <h5><strong>Aution Ends: </strong>@Model.ProductClose</h5><br/>
+        @if (@Model.ProductClose <= DateTime.Now)
+        {
+            <div class="alert alert-danger">
+                <strong>Auction Ended</strong>
+            </div>
+        }
+        else
+        {
+            using (Html.BeginForm("Details", "Product", FormMethod.Post, new { enctype = "multipart/form-data" /*onsubmit = "return AjaxPost(this)"*/, id = "Details" }))
+            {
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <input type="number" name="CurrentBid" class="form-control text-danger" required/><br/>
+                <input type="submit" value="Place Bid" class="btn btn-default" />
+            }
+        }
+        <br/>
+        <br/>
+        <p><strong>Highest Bidder: </strong></p>
+    </div>
+    </div>
+</div>
+
+

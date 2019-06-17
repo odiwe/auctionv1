@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Auction_v1.Models.tblProduct>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Home</h2>
+Welcome @HttpContext.Current.User.Identity.Name
+
+@if (Request.IsAuthenticated)
+{
+    using (Html.BeginForm("Logout", "Account", FormMethod.Post, new { id = "logoutForm" }))
+    {
+        <a href="javascript:document.getElementById('logoutForm').submit()">Logout</a>
+    }
+}
+<hr/>
+<div class="container">
+    <h2 class="text-center">Product List</h2>
+    <hr/>
+    @foreach (var item in Model)
+    {
+        double price = Convert.ToInt32(@item.ProductPrice);
+        <div class="col-md-3" style="margin-bottom: 20px">
+            <div class="thumbnail">
+                <img class="img-responsive" src="~/Uploads/Products/@item.PicUrl" height="350" width="240"/>
+
+            </div>
+            <div class="caption" style="border-top: 3px solid #808080">
+                <h3><a href="~/Product/Details/@item.ProductID">@item.ProductName</a></h3>
+                <h4>&#8358;@price.ToString("F")</h4>
+            </div>
+        </div>
+    }
+</div>

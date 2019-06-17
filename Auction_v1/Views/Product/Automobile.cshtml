@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Auction_v1.Models.tblProduct>
+
+@{
+    ViewBag.Title = "Automobile";
+}
+
+<h2>Automobile</h2>
+<hr/>
+<div class="container">
+    @foreach (var item in Model)
+    {
+        double price = Convert.ToInt32(@item.ProductPrice);
+        <div class="col-md-3" style="margin-bottom: 20px">
+            <div class="thumbnail">
+                <img class="img-responsive" src="~/Uploads/Products/@item.PicUrl" height="350" width="240" />
+            </div>
+            <div class="caption" style="border-top: 3px solid #808080">
+                <h3><a href="~/Product/Details/@item.ProductID">@item.ProductName</a></h3>
+                <h4>&#8358;@price.ToString("F")</h4>
+            </div>
+        </div>
+    }  
+</div>
+

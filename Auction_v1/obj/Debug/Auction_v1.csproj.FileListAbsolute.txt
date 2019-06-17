@@ -1,0 +1,204 @@
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\roslyn\csc.exe
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\roslyn\csc.exe.config
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\roslyn\csc.rsp
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\roslyn\csi.exe
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\roslyn\csi.rsp
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\roslyn\System.AppContext.dll
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\roslyn\System.IO.FileSystem.dll
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\roslyn\vbc.exe
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\roslyn\vbc.exe.config
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\roslyn\vbc.rsp
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\roslyn\VBCSCompiler.exe
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\Auction_v1.dll.config
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\Auction_v1.dll
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\Auction_v1.pdb
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\EntityFramework.dll
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\EntityFramework.SqlServer.dll
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\Microsoft.Web.Infrastructure.dll
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\System.Web.Helpers.dll
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\System.Web.Mvc.dll
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\System.Web.Razor.dll
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\System.Web.Webpages.Deployment.dll
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\System.Web.Webpages.dll
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\System.Web.Webpages.Razor.dll
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\EntityFramework.xml
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\EntityFramework.SqlServer.xml
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\System.Web.Razor.xml
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\System.Web.Webpages.xml
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\System.Web.Webpages.Deployment.xml
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\System.Web.Webpages.Razor.xml
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\System.Web.Helpers.xml
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\bin\System.Web.Mvc.xml
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\obj\Debug\Auction_v1.csprojResolveAssemblyReference.cache
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\obj\Debug\Auction_v1.dll
+c:\users\odiwe john\documents\visual studio 2017\Projects\Auction_v1\Auction_v1\obj\Debug\Auction_v1.pdb
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\roslyn\csc.exe
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\roslyn\csc.exe.config
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\roslyn\csc.rsp
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\roslyn\csi.exe
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\roslyn\csi.rsp
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\roslyn\System.AppContext.dll
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\roslyn\vbc.exe
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\roslyn\vbc.exe.config
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\roslyn\vbc.rsp
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\roslyn\VBCSCompiler.exe
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\Auction_v1.dll.config
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\Auction_v1.dll
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\Auction_v1.pdb
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\EntityFramework.dll
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\EntityFramework.SqlServer.dll
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\System.Web.Helpers.dll
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\System.Web.Mvc.dll
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\System.Web.Razor.dll
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\System.Web.Webpages.dll
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\System.Web.Webpages.Razor.dll
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\EntityFramework.xml
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\EntityFramework.SqlServer.xml
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\System.Web.Razor.xml
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\System.Web.Webpages.xml
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\System.Web.Webpages.Razor.xml
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\System.Web.Helpers.xml
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\bin\System.Web.Mvc.xml
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\obj\Debug\Auction_v1.csprojResolveAssemblyReference.cache
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\obj\Debug\Auction_v1.dll
+C:\Users\ODIWE JOHN\Videos\Auction_v1\Auction_v1\obj\Debug\Auction_v1.pdb
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\roslyn\csc.exe
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\roslyn\csc.exe.config
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\roslyn\csc.rsp
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\roslyn\csi.exe
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\roslyn\csi.rsp
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\roslyn\System.AppContext.dll
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\roslyn\vbc.exe
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\roslyn\vbc.exe.config
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\roslyn\vbc.rsp
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\roslyn\VBCSCompiler.exe
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\Auction_v1.dll.config
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\Auction_v1.dll
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\Auction_v1.pdb
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\EntityFramework.dll
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\EntityFramework.SqlServer.dll
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\System.Web.Helpers.dll
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\System.Web.Mvc.dll
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\System.Web.Razor.dll
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\System.Web.Webpages.dll
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\System.Web.Webpages.Razor.dll
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\EntityFramework.xml
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\EntityFramework.SqlServer.xml
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\System.Web.Razor.xml
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\System.Web.Webpages.xml
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\System.Web.Webpages.Razor.xml
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\System.Web.Helpers.xml
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\bin\System.Web.Mvc.xml
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\obj\Debug\Auction_v1.csprojResolveAssemblyReference.cache
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\obj\Debug\Auction_v1.dll
+C:\Users\ODIWE JOHN\Desktop\Auction_v1\Auction_v1\obj\Debug\Auction_v1.pdb
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\roslyn\csc.exe
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\roslyn\csc.exe.config
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\roslyn\csc.rsp
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\roslyn\csi.exe
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\roslyn\csi.rsp
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\roslyn\System.AppContext.dll
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\roslyn\vbc.exe
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\roslyn\vbc.exe.config
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\roslyn\vbc.rsp
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\roslyn\VBCSCompiler.exe
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\Auction_v1.dll.config
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\Auction_v1.dll
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\Auction_v1.pdb
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\EntityFramework.dll
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\EntityFramework.SqlServer.dll
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\System.Web.Helpers.dll
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\System.Web.Mvc.dll
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\System.Web.Razor.dll
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\System.Web.Webpages.dll
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\System.Web.Webpages.Razor.dll
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\EntityFramework.xml
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\EntityFramework.SqlServer.xml
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\System.Web.Razor.xml
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\System.Web.Webpages.xml
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\System.Web.Webpages.Razor.xml
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\System.Web.Helpers.xml
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\bin\System.Web.Mvc.xml
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\obj\Debug\Auction_v1.csprojResolveAssemblyReference.cache
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\obj\Debug\Auction_v1.dll
+C:\Users\johno\Documents\PROJECT COMPLETE\Aptech\Auction_v1\Auction_v1\obj\Debug\Auction_v1.pdb
